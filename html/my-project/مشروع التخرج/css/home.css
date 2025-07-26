@@ -1,0 +1,16 @@
+a {
+    display:block;
+    background-color: rgb(236, 235, 220);
+
+}
+body {
+    text-align: right;
+    direction: rtl;
+}
+h1 {
+    text-align: center;
+}
+.student-image {
+    width: 60%;
+    padding: 5% 20%;
+}
